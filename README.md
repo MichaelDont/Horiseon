@@ -1,16 +1,16 @@
 # Horiseon 
 
 ## Purpose
-Practice bring up existing code to accessibility standards.
+Practice bring up existing code to accessibility standards. (Bringing existing code up to accessibility standards)
 
 ## Built With 
 * HTML
 * CSS
 
 ## Website
-https://michaeldont.github.io/Horiseon/
+https://mtastalos.github.io/Horiseon/
 
 ## Contribution
-Made with ❤️ by Michael Astalos
+Made by Michael Astalos
 
 ### ©️2021 Horiseon
